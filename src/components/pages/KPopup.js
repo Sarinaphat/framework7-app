@@ -6,7 +6,7 @@ export const KPopup = () => {
         <Page>
             <Navbar title="About" backLink="Back" sliding />
             <Popup>
-              <p>Hello</p>
+            
             </Popup>
 
             <Popup tabletFullscreen>
